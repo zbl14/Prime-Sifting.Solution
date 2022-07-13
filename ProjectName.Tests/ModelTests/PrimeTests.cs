@@ -1,11 +1,11 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName.Models;
+using PrimeSifting.Models;
 
-namespace ProjectName.Tests
+namespace PrimeSifting.Tests
 {
   [TestClass]
-  public class ClassNameTests // : IDisposable
+  public class PrimeTests // : IDisposable
   {
     // public void Dispose()
     // {

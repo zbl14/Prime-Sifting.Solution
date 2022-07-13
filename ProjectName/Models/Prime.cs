@@ -1,6 +1,6 @@
-namespace ProjectName.Models
+namespace PrimeSifting.Models
 {
-  public class ClassName
+  public class Prime
   {
     // properties, constructors, methods, etc. go here
   }

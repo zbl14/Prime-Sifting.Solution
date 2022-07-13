@@ -1,7 +1,7 @@
 using System;
-using ProjectName.Models;
+using PrimeSifting.Models;
 
-namespace ProjectName
+namespace PrimeSifting
 {
   public class Program
   {
